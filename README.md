@@ -10,6 +10,6 @@ This tool helps network engineers perform version checks, gather configuration b
 - Save logs and configuration backups
 - Designed for easy customization and expansion
 
-Designed by: Marlene Marcía Bernal
-GitHub: mmarciab007
-email: mmarciab07@gmail.com
+## Designed by: Marlene Marcía Bernal ##
+## GitHub: mmarciab007 ##
+## email: mmarciab07@gmail.com ## 
