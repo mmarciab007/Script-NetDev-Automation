@@ -1,7 +1,6 @@
-## Cisco Switch Automation with Python ##
+## Cisco Automation with Python ##
 
-Automate routine tasks on Cisco switches using Python and Netmiko.  
-This tool helps network engineers perform version checks, gather configuration backups, and run custom commands on multiple Cisco devices via SSH.
+Automate routine tasks on Cisco switches, routers using Python and Scrapli.  
 
 ## FEATURES ##
 - SSH connection to Cisco IOS switches
