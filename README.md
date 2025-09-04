@@ -1,6 +1,6 @@
 ## Cisco Automation with Python ##
 
-Automate routine tasks on Cisco switches, routers using Python and Scrapli.  
+Automate routine tasks on Cisco switches, routers using Python and Scrapli. 
 
 ## FEATURES ##
 - SSH connection to Cisco IOS switches
