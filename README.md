@@ -9,6 +9,14 @@ Automate routine tasks on Cisco switches, routers using Python and Scrapli.
 - Save logs and configuration backups
 - Designed for easy customization and expansion
 
+##PACKAGE TO INSTALL##
+- Python3
+- Rich
+- Scrapli
+- TextFSM
+- NAPALM
+- Jinja2
+
 ## AUTHOR ##
 Designed by: Marlene Marcía Bernal  
 GitHub: mmarciab007  
